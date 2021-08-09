@@ -1,0 +1,15 @@
+[22:21:38] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:21:38] [Server thread/INFO]: [A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[B[B[B[B[B[B[B[B[B[B[Bstop<--[HERE]
+[22:22:18] [Server thread/INFO]: Stopping the server
+[22:22:18] [Server thread/INFO]: Stopping server
+[22:22:18] [Server thread/INFO]: Saving players
+[22:22:18] [Server thread/INFO]: Saving worlds
+[22:22:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:22:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:22:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:22:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:22:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:22:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:22:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:22:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:22:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
